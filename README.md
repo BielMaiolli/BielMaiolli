@@ -16,4 +16,4 @@ Linkedin
 -> www.linkedin.com/in/gabrielmaiolli
 
 Instagram
--> 
+-> https://www.instagram.com/bielmaiolli?igsh=MWd2ZDVpYjJxaGQxcA%3D%3D
