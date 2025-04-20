@@ -1,4 +1,4 @@
-NestJS | MongoDB |  Java | HTML | CSS | JS | Power BI | Foco no Cliente | Gestão de Pessoas | Aspirante a Customer Success | Alta Comunicação | Estudante de Engenharia de Software 
+NestJS | MongoDB |  Java | HTML | CSS | JS | Power BI | Foco no Cliente | Gestão de Pessoas | Gestão de Projetos | Analista de Projetos | Alta Comunicação | Estudante de Engenharia de Software 
 
 Prazer! Sou Gabriel Maiolli, estudante de Engenharia de Software (7º semestre) na UniCesumar, com forte paixão por Gestão de Pessoas e Projetos, Customer Success e desenvolvimento de software.
 
