@@ -4,7 +4,7 @@ Prazer! Sou Gabriel Maiolli, estudante de Engenharia de Software (7º semestre) 
 
 Combino habilidades técnicas em NestJS, MongoDB, JavaScript e Java com excelentes capacidades de comunicação e gestão de pessoas. Esta combinação me permite entender tanto os aspectos técnicos quanto humanos dos desafios empresariais.
 
-Busco oportunidades de estágio, trainee ou junior onde possa:
+Sempre vou:
 - Aplicar minha habilidade de aprendizado rápido e proatividade
 - Utilizar minhas capacidades comunicativas para fortalecer o relacionamento com clientes
 - Contribuir com soluções técnicas inovadoras
